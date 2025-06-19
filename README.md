@@ -9,7 +9,7 @@ Neurodegenerative diseases involve progressive neuronal dysfunction, requiring i
 
 <b>Keywords</b>: Neurodegenerative diseases; Blood-based biomarkers; Plasma proteomic profile; Graph neural network; Protein-protein interaction; Molecular pathway structure.
 
-![Image](https://github.com/user-attachments/assets/6e0c0258-f663-43c2-957a-707f30cf7e80)
+![Image](https://github.com/user-attachments/assets/d1d77400-0c4b-4393-b4e1-cc425d5528d0)
 
 ---
 
@@ -41,7 +41,7 @@ The plasma samples of participants were profiled by the Olink Platform, where 1,
   - MATLAB (version R2024b)
 
 - <b>Main code</b>
-  - MultiGENN
+  - BIGPN
 
 - <b>Data setting</b>
   - Xdata: independent effect of target proteins
